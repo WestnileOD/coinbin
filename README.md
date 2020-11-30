@@ -1,7 +1,7 @@
 Simple Bitcoin Wallet  by WestnileOD
 =======
 
-A Open Source Browser Based Bitcoin Wallet.Github URL: https://github.com/WestnileOD/Simplebtcwallet
+A Open Source Browser Based Bitcoin Wallet.Github URL: https://github.com/WestnileOD/coinbin
 
 This is a very lightweight and easy to use wallet for anyone. This version is a very simplified version of OutCast3k Coinbin project.
 Many features were removed and mostly cosmetic work, a reduced version.

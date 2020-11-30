@@ -1,11 +1,17 @@
-coinbin
+Simple Bitcoin Wallet  by WestnileOD
 =======
 
-A Open Source Browser Based Bitcoin Wallet. Version 1.6 beta by OutCast3k
+A Open Source Browser Based Bitcoin Wallet.Github URL: https://github.com/WestnileOD/Simplebtcwallet
 
+This is a very lightweight and easy to use wallet for anyone. This version is a very simplified version of OutCast3k Coinbin project.
+Many features were removed and mostly cosmetic work, a reduced version.
+
+
+For full features view Original source code:
+Forked from Version 1.6 beta by OutCast3k Github URL: https://github.com/OutCast3k/coinbin/ 
 Live version available at http://coinb.in/ or http://4zpinp6gdkjfplhk.onion
 
-Github URL: https://github.com/OutCast3k/coinbin/
+
 
 Coinb.in supports a number of key features such as: 
 
